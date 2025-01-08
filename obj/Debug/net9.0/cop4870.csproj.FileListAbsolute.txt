@@ -1,0 +1,14 @@
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/bin/Debug/net9.0/cop4870
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/bin/Debug/net9.0/cop4870.deps.json
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/bin/Debug/net9.0/cop4870.runtimeconfig.json
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/bin/Debug/net9.0/cop4870.dll
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/bin/Debug/net9.0/cop4870.pdb
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/cop4870.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/cop4870.AssemblyInfoInputs.cache
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/cop4870.AssemblyInfo.cs
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/cop4870.csproj.CoreCompileInputs.cache
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/cop4870.dll
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/refint/cop4870.dll
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/cop4870.pdb
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/cop4870.genruntimeconfig.cache
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/ref/cop4870.dll
