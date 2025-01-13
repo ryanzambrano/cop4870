@@ -12,3 +12,4 @@
 /Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/cop4870.pdb
 /Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/cop4870.genruntimeconfig.cache
 /Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/ref/cop4870.dll
+/Users/ryanzambrano/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub.nosync/cop4870/obj/Debug/net9.0/cop4870.sourcelink.json
