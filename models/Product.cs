@@ -8,6 +8,8 @@ namespace MyApp.Models
         // Primary Key
              public string Name { get; set; }
 
+            // public string Foo { get; set; }
+
         
     }
 }
